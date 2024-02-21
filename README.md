@@ -1,20 +1,22 @@
 # Vessel Efficiency Optimizer
 
-Final project for the Building AI course
+Building AI course project
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+The project will develop an AI software which performs in-depth analysis supporting shipping operators in its decision-making process.
+Input to the software will be parameters like depature and destination ports, travelling schedule, weather forcasts (including sea currents), and cargo load.
+Output will be suggestions for operating parameters like route, trim, speed and engine parameters (torque and rotations) to minimize operational 
+cost for the voyage and predict the GHG emmisions.
 
+Over time, the software shall also be able to predict the vessel's maintenance need. This includes maintenance for hull and propeller optimization, and 
+engine performance optimization.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+For shipping, both IMO (International Maritime Organization) and EU (European Union) have launched initiatives for reducing GHG (Greenhouse Gas) emissions from ships.
+Although the implemented mechanisms themselves are different, both initiatves aim for improving transport efficiency. Several different methods for improving transport efficiency
+can be applied (like changing fuel and/or improving the propeller), but optimizing the operational conditions are always an important method.
 
 
 ## How is it used?
